@@ -9,12 +9,3 @@ function initMap() {
 		map: map
 	});
 }
-
-
-$(document).ready(function() //when document loads
-{
-	console.log("HI!!!!")
-	
-	// initMap();
-	
-});
