@@ -115,6 +115,14 @@ img{
 	float:right;
 }
 
+.myself{
+	padding-top: 1.25em;
+}
+
+.info{
+	padding-top: 1.25em;
+}
+
 .education ul,
 .education ul li {
 	padding-bottom: 10px;
